@@ -1,7 +1,7 @@
 [
     {
      "id" : "01",
-     "title" : "English",
+     "title" : "English Advanced",
      "img" : "https://t3.ftcdn.net/jpg/02/20/21/40/360_F_220214030_D3P5eFfXvY8pz8SEhPeQh27xvbJ1jX1n.jpg",
      "duration" : "6 months",
      "price" : "240",
@@ -9,7 +9,7 @@
     },
     {
         "id" : "02",
-        "title" : "Italian",
+        "title" : "Italian Advanced",
         "img" : "https://prod-discovery.edx-cdn.org/media/course/image/1e170500-f525-46c1-b8b9-c893cf6910d3-641dfb9218ec.small.jpg",
         "duration" : "6 months",
         "price" : "200",
@@ -17,7 +17,7 @@
     },
     {
         "id" : "03",
-        "title" : "French",
+        "title" : "French Intermediate",
         "img" : "https://cdn.ila-france.com/wp-content/uploads/2018/01/Learn-French-Comprehension.jpg",
         "duration" : "4 months",
         "price" : "180",
@@ -25,7 +25,7 @@
     },
     {
         "id" : "04",
-        "title" : "Chinese",
+        "title" : "Chinese Basic",
         "img" : "https://www.chineseedge.com.sg/wp-content/uploads/2019/04/great-reasons-for-learning-the-chinese-language.jpg",
         "duration" : "8 months",
         "price" : "300",
@@ -33,7 +33,7 @@
     },
     {
         "id" : "05",
-        "title" : "Spanish",
+        "title" : "Spanish Basic",
         "img" : "https://www.grittyspanish.com/wp-content/uploads/2019/03/Great-tools-to-learn-Spanish-today.jpg",
         "duration" : "5 months",
         "price" : "220",
